@@ -1,0 +1,21 @@
+{
+  "name": "steemvoter",
+  "version": "1.0.0",
+  "description": "created by @netuoso",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lottery": "node lottery.js"
+  },
+  "keywords": [
+    "steem",
+    "bot",
+    "cryptocurrency"
+  ],
+  "author": "netuoso",
+  "license": "WTFPL",
+  "dependencies": {
+    "moment": "^2.19.3",
+    "steem": "^0.6.7"
+  }
+}
